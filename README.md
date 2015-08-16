@@ -5,10 +5,10 @@
 
 ## Getting Started
 
-Install `slush-slush-typescript-angular-component` globally:
+Install `slush-typescript-angular-component` globally:
 
 ```bash
-$ npm install -g slush-slush-typescript-angular-component
+$ npm install -g slush-typescript-angular-component
 ```
 
 ### Usage
@@ -16,13 +16,13 @@ $ npm install -g slush-slush-typescript-angular-component
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-slush-typescript-angular-component
+$ mkdir my-slush-typescript-angular-component
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-slush-typescript-angular-component && slush slush-typescript-angular-component
+$ cd my-slush-typescript-angular-component && slush slush-typescript-angular-component
 ```
 
 ## Getting To Know Slush
